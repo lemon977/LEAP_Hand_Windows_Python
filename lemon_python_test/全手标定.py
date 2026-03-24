@@ -31,7 +31,7 @@ class FourFingerCalibrator:
         self.dxl.set_torque_enabled(self.motors, False)
         print("👉 已关闭力矩，可以手动掰动")
 
-        # ===== 手指映射 =====
+        # ===== 手指映射 ===== 
         self.fingers = {
             "index":  [1, 2, 3, 4],
             "middle": [5, 6, 7, 8],
