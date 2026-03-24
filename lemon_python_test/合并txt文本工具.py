@@ -11,7 +11,7 @@ Modifications by lemon977:
 """
 import argparse
 import sys
-
+ 
 def merge_files(input_files, output_file, delimiter='\n\n'):
     """
     按顺序合并多个文件到一个输出文件
