@@ -1,3 +1,17 @@
+<div align="center">
+
+# LEAP Hand | Control Bench
+
+**面向 LEAP Hand 的 Python / ROS / ROS 2 / C++ 控制实验台，涵盖校准、运动控制、录制和回放。**
+
+`Dynamixel / motor calibration / recording / replay`
+
+> 项目展示风格：Hardware Lab · 以下保留原项目 README 的技术内容、状态说明和使用约束。
+
+</div>
+
+---
+
 
 # Lemon Python Test
 
